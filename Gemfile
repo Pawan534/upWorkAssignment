@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+gem "cucumber", "=3.1.2"
+gem "rspec", ">0"
+gem "data_magic", ">0"
+gem "require_all", ">1.2.1"
+gem "selenium-webdriver", "=3.142.7"
